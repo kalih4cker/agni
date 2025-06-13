@@ -1,9 +1,6 @@
 # Agni
 Agni is a Bash-based subdomain discovery script designed for Bug Bounty reconnaissance. It automates the process of subdomain enumeration and live host detection using the community tools.
-
-
-
-![image](https://github.com/user-attachments/assets/b45d5cdd-4760-4298-a5f5-27a9068d299d)
+![image](https://github.com/user-attachments/assets/56793d5e-25b2-4a2f-addc-d6f4f3b78b45)
 
 
 # Installation
